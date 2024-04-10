@@ -1,0 +1,22 @@
+{
+  "type": "elastic-assets-search",
+  "displayName": "Elastic Assets Search",
+  "logoIconUrl": "http://localhost:4059/elastic-search-badge.svg",
+  "badgeIconUrl": "http://localhost:4059/elastic-search-logo.svg",
+  "category": "content",
+  "baseLocationUrl": "http://localhost:4059",
+  "locations": {
+    "install": {
+      "description": [
+        "Please update me ;)"
+      ]
+    },
+    "settings": {
+      "url": "/settings"
+    },
+    "assetLibrary": {
+      "assetLibraryUrl": "/assets/asset-library",
+      "assetParameterUrl": "/assets/asset-parameter"
+    }
+  }
+}
